@@ -1,0 +1,6 @@
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson4\Calc\Calc\obj\Debug\Calc.pdb
