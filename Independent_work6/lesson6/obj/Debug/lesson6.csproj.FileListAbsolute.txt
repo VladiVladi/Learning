@@ -1,0 +1,6 @@
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\bin\Debug\lesson6.exe.config
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\bin\Debug\lesson6.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\bin\Debug\lesson6.pdb
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\obj\Debug\lesson6.csprojResolveAssemblyReference.cache
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\obj\Debug\lesson6.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\lesson6\lesson6\obj\Debug\lesson6.pdb
