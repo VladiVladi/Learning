@@ -1,0 +1,6 @@
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\bin\Debug\HomeWork6_new.exe.config
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\bin\Debug\HomeWork6_new.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\bin\Debug\HomeWork6_new.pdb
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\obj\Debug\HomeWork6_new.csprojResolveAssemblyReference.cache
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\obj\Debug\HomeWork6_new.exe
+C:\Users\mishchenko.v\Desktop\VS\Project\Starter\HomeWork6_new\HomeWork6_new\obj\Debug\HomeWork6_new.pdb
